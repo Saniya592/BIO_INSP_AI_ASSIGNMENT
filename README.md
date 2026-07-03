@@ -7,7 +7,7 @@ pip install snntorch torch torchvision
 ## Results
 | Experiment | Test Accuracy |
 |---|---|
-| MNIST | 97.31% |
-| MNIST + Augmentation | 96.58% |
-| Fashion-MNIST | 88.00% |
-| Fashion-MNIST + Augmentation | 83.87% |
+| MNIST | 97.40% |
+| MNIST + Augmentation | 97.98% |
+| Fashion-MNIST | 87.54% |
+| Fashion-MNIST + Augmentation | 86.49% |
